@@ -1,0 +1,8 @@
+env/*
+*.swp
+*.pyc
+tags
+scoreserver/var
+scoreserver/scoreserver/settings.py
+libs
+winexe
